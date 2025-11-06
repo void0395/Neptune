@@ -9,11 +9,11 @@ The goal is to demonstrate how **edge-based intelligence** can detect and react 
 without cloud dependency — combining artificial intelligence, hardware design, and cybersecurity principles.
 
 #  System Architecture (Conceptual)
-Camera Module 3 : AI Vision (TensorFlow Lite + OpenCV)
-Object Detection : Threat Classification to Action Trigger
-LoRa SX1276 : Encrypted Telemetry (AES-256)
-Smart BMS + Solar Input : Autonomous Power Management
-Local Alert System : Visual + Audio Feedback
+- Camera Module 3 : AI Vision (TensorFlow Lite + OpenCV)
+- Object Detection : Threat Classification to Action Trigger
+- LoRa SX1276 : Encrypted Telemetry (AES-256)
+- Smart BMS + Solar Input : Autonomous Power Management
+- Local Alert System : Visual + Audio Feedback
 
 
 #  Core Features

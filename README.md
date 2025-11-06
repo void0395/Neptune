@@ -29,19 +29,6 @@ Local Alert System : Visual + Audio Feedback
 - Develop modular frameworks for **decentralized intelligent defense networks**.
 
 
-#  Tech Stack (Conceptual)
-| Layer | Technology / Tool |
-|-------|-------------------|_____________________________________
-| Hardware | Raspberry Pi 4 Model B, Camera Module 3, LoRa SX1276 |
-| Software | Raspberry Pi OS Lite 64-bit, Python 3, Bash          |
-| AI / Vision | TensorFlow Lite, OpenCV                           |
-| Security | AES-256 Encryption, VPN Tunnel, OS-level Hardening   |
-| Energy | Custom BMS + Solar MPPT Algorithm                      |
-| Communication | LoRa Mesh (pyLoRa library)                      |
-|                                                                 |
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
 #  Status
 **Concept Stage** — This project focuses on **architecture and logic design**, not on hardware implementation.  
 It serves as a **research framework** for future real-world prototyping.

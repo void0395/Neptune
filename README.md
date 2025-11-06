@@ -10,7 +10,7 @@ without cloud dependency — combining artificial intelligence, hardware design,
 
 #  System Architecture (Conceptual)
 Camera Module 3 : AI Vision (TensorFlow Lite + OpenCV)
-Object Detection : Threat Classification → Action Trigger
+Object Detection : Threat Classification to Action Trigger
 LoRa SX1276 : Encrypted Telemetry (AES-256)
 Smart BMS + Solar Input : Autonomous Power Management
 Local Alert System : Visual + Audio Feedback
